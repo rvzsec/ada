@@ -3,7 +3,7 @@
 ADA is a security vulnerability aggregation tool that detects, audits, and consolidates dependency security findings from multiple package managers and external scanners into unified branded reports.
 
 <div align="center">
-  <img width="650" src="https://rvizx.github.io/assets/ada-report.png" alt="sample"> <br><br>
+  <img width="650" src="https://rvzsec.github.io/assets/ada-report.png" alt="sample"> <br><br>
 </div>
 
 ### Features
